@@ -12,3 +12,13 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+
+# Starter Content Ignore
+/Content/__ExternalActors__
+/Content/__ExternalObjects__
+/Content/Characters
+/Content/LevelPrototyping
+/Content/StarterContent
+/Content/ThirdPerson
+Config/DefaultEditor.ini
